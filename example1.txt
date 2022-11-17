@@ -1,2 +1,0 @@
-this is first example file 
-added this  line in git husb
